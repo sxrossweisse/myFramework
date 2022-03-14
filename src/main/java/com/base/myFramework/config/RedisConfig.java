@@ -11,7 +11,7 @@ import org.springframework.data.redis.serializer.Jackson2JsonRedisSerializer;
 import org.springframework.data.redis.serializer.StringRedisSerializer;
 
 /**
- * @Package tv.yunxi.ctrip.core.redis.config
+ * @Package com.base.myFramework.config
  * @ClassName RedisConfig
  * @Author suxin
  * @DATE 2019/11/26 下午1:58
